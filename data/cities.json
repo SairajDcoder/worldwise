@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Pune",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-08-30T18:39:41.792Z",
+      "notes": "very nice trip",
+      "position": {
+        "lat": "18.513185831535186",
+        "lng": "73.8516911350383"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Roghun",
+      "country": "Tajikistan",
+      "emoji": "🇹🇯",
+      "date": "2025-09-01T14:55:33.889Z",
+      "notes": "lol",
+      "position": {
+        "lat": "38.78971133476893",
+        "lng": "69.79034339015605"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Evenkiyskiy Rayon",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-09-01T14:56:21.693Z",
+      "notes": "sdfasdf",
+      "position": {
+        "lat": "68.72803220850795",
+        "lng": "101.45367712970804"
+      },
+      "id": 73930388
+    }
+  ]
+}
